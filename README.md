@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evandeschrijver
-- 👀 I’m climate change epidemiologst with application of time series analyses, big data and data science 
+- 👀 I’m a climate change epidemiologst with application of time series analyses, big data, spatial analyses and data science, focussing on temperature and mortality associations.
 - 🌱 I’m currently learning to work with large datasets of climate projections and attribute these to human health impacts
 - 📫 Find me on twitter @EvanSchrijver
 
